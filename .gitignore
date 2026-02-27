@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+*-env/
+sklearn-env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
